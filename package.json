@@ -14,7 +14,7 @@
   "dependencies": {
     "actionhero": "^16.0.0",
     "fakeredis": "^1.0.3",
-    "ioredis": "^2.4.0",
+    "ioredis": "^2.4.1",
     "twitter": "x"
   },
   "devDependencies": {
