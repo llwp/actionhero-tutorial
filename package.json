@@ -18,7 +18,7 @@
     "twitter": "x"
   },
   "devDependencies": {
-    "should": "x",
+    "should": "11.1.2",
     "mocha": "x",
     "standard": "^8.6.0",
     "request": "x"
